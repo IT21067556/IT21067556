@@ -1,7 +1,7 @@
 ### GitHub Ssername(SLIIT Student Registration Num): IT21067556
 ### 
-### Hello! :)
-### I'm Shifan Mohamed, currently year 1 semester 2 student studying at SLIIT Metro Campus under the Faculty of Computing.
+Hello! :)
+I'm Shifan Mohamed, currently year 1 semester 2 student studying at SLIIT Metro Campus under the Faculty of Computing.
 
 <!--
 **IT21067556/IT21067556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
