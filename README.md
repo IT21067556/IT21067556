@@ -1,4 +1,4 @@
-### GitHub Ssername(SLIIT Student Registration Num): IT21067556
+### GitHub Username(SLIIT Student Registration Num): IT21067556
 ### 
 Hello! :)
 I'm Shifan Mohamed, currently year 1 semester 2 student studying at SLIIT Metro Campus under the Faculty of Computing.
